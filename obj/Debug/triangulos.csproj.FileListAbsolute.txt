@@ -1,0 +1,11 @@
+C:\Users\samuel.spvieira\source\repos\triangulos\bin\Debug\triangulos.exe.config
+C:\Users\samuel.spvieira\source\repos\triangulos\bin\Debug\triangulos.exe
+C:\Users\samuel.spvieira\source\repos\triangulos\bin\Debug\triangulos.pdb
+C:\Users\samuel.spvieira\source\repos\triangulos\obj\Debug\triangulos.csproj.AssemblyReference.cache
+C:\Users\samuel.spvieira\source\repos\triangulos\obj\Debug\triangulos.FrmTriangulos.resources
+C:\Users\samuel.spvieira\source\repos\triangulos\obj\Debug\triangulos.Properties.Resources.resources
+C:\Users\samuel.spvieira\source\repos\triangulos\obj\Debug\triangulos.csproj.GenerateResource.cache
+C:\Users\samuel.spvieira\source\repos\triangulos\obj\Debug\triangulos.csproj.CoreCompileInputs.cache
+C:\Users\samuel.spvieira\source\repos\triangulos\obj\Debug\triangulos.exe
+C:\Users\samuel.spvieira\source\repos\triangulos\obj\Debug\triangulos.pdb
+C:\Users\samuel.spvieira\source\repos\triangulos\obj\Debug\triangulos.exe.config
